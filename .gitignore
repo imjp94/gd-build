@@ -1,0 +1,21 @@
+# addons/
+assets/
+build/
+logs/
+
+# Godot-specific ignores
+.import/
+export.cfg
+
+# Mono-specific ignores
+.mono/
+data_*/
+
+# VSCode
+.vscode/
+
+# gd-plug
+.plugged/
+
+# gd-build
+.gd-build/
